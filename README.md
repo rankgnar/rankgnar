@@ -4,7 +4,7 @@
 <!-- HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:003554,100:00d4ff&height=220&section=header&text=RAUL%20ROSELLO&fontSize=60&fontColor=00d4ff&fontAlignY=42&desc=Builder%20%E2%80%A2%20Architect%20%E2%80%A2%20Operator&descSize=20&descColor=58a6ff&descAlignY=67&animation=fadeIn" width="100%" />
+<img src="./assets/banner.png" alt="RANKGNAR — Software Engineer" width="100%" />
 
 <br>
 
